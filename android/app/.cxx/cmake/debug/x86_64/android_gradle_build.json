@@ -1,0 +1,46 @@
+{
+  "stringTable": {
+    "0": "/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dcommon_lib_EXPORTS -I../../../../../../headers -I../../../../../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/data1/10_test_place/face_recognition/android/CMakeLists.txt",
+    "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "common_lib-Debug-x86_64": {
+      "buildCommand": "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86_64\" common_lib",
+      "buildType": "debug",
+      "toolchain": "1570491810",
+      "abi": "x86_64",
+      "artifactName": "common_lib",
+      "files": [
+        {
+          "src": "/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so",
+      "runtimeFiles": [
+        "/data1/10_test_place/face_recognition/android/app/src/main/jniLibs/x86_64/libtensorflowlite_c_delegate.so",
+        "/data1/10_test_place/face_recognition/android/app/src/main/jniLibs/x86_64/libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "1570491810": {
+      "cppCompilerExecutable": "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

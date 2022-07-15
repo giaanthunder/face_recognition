@@ -1,0 +1,2 @@
+ninja: Entering directory `/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/arm64-v8a'
+ninja: no work to do.

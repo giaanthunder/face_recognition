@@ -1,0 +1,12 @@
+# ninja log v5
+0	1562	1646273139	CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o	cef32b0c5d1c19fc
+1563	1584	1646273139	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b
+1	53	1657534918	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b
+1	1699	1657618050	CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o	cef32b0c5d1c19fc
+1699	1772	1657618050	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b
+1	1620	1657620541	CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o	cef32b0c5d1c19fc
+1620	1669	1657620542	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b
+0	1656	1657621200	CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o	cef32b0c5d1c19fc
+1656	1696	1657621200	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b
+2	1703	1657794447	CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o	cef32b0c5d1c19fc
+1703	1792	1657794448	/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/x86_64/libcommon_lib.so	b4d7bb69fdc6ca3b

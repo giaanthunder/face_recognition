@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/data1/10_test_place/face_recognition/android/CMakeLists.txt",
+    "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "common_lib-Debug-armeabi-v7a": {
+      "artifactName": "common_lib",
+      "buildCommand": "/data1/04_flutter/01_tools/android-sdk/cmake/3.10.2.4988404/bin/ninja -C \"/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/armeabi-v7a\" common_lib",
+      "abi": "armeabi-v7a",
+      "output": "/data1/10_test_place/face_recognition/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libcommon_lib.so",
+      "runtimeFiles": [
+        "/data1/10_test_place/face_recognition/android/app/src/main/jniLibs/armeabi-v7a/libtensorflowlite_c_delegate.so",
+        "/data1/10_test_place/face_recognition/android/app/src/main/jniLibs/armeabi-v7a/libopencv_java4.so"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/x86/CMakeFiles/common_lib.dir

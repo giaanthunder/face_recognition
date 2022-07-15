@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/data1/10_test_place/face_recognition/android/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/data1/04_flutter/01_tools/android-sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcommon_lib_EXPORTS -I../../../../../../headers -I../../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/common_lib.dir/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp.o -c /data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp",
+  "file": "/data1/10_test_place/face_recognition/ios/Classes/common_lib.cpp"
+}
+]
